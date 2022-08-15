@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Daniil Markelov - Home"
+title: "Home"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
