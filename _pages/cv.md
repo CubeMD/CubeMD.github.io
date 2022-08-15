@@ -41,7 +41,6 @@ Unity3D engine
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* [Publication 1](https://github.com/academicpages/academicpages.github.io/commits/master)
+* [Publication 2](https://github.com/academicpages/academicpages.github.io/commits/master)
+* [Publication 3](https://github.com/academicpages/academicpages.github.io/commits/master)
