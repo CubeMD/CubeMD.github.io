@@ -7,34 +7,37 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Advanced diploma in Game Design and Development, Centennial College
+* Nanodegree in Deep Reinforcement Learning, Udacity
+* Training about Unreal Engine 4, Realtime School
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Unity Developer / Programmer, Comets Studious Inc.
+  * Co-programmed gameplay and balanced progression
+  * Developed weapons and collectibles
+  * Developed behaviors for enemies and wave generation system
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C#, python
+* Engines
+  * Unity 
+  * Unreal Engine 4
+* GitHub, Git, Bitbucket, Fork
+* Notion, Jira, Trello, HackAndPlan
+
+Qualities
+======
+* Fast feature prototyping
+* Following universal code
+style/conventions
+* Quick learner
+* Analytical problem solving
+* Exceptional knowledge of
+Unity3D engine
 
 Publications
 ======
@@ -42,18 +45,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
