@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniil Markelov"
 title_separator          : "-"
 name                     : &name "Daniil Markelov"
-description              : &description "Machine learning engineer | Game Developer"
+description              : &description ""
 url                      : https://CubeMD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CubeMD/CubeMD.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daniil Markelov"
   avatar           : "profile.png"
-  bio              : "A machine learning enthusiast striving to bring intelligent systems into game development"
+  bio              : "Machine Learning Engineer | Game Developer"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : 
@@ -113,8 +113,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCRfqV5LC_KETsUSYaOgAsXQ"
   wikipedia        :
+  medium           : "@markelovdp"
 
 
 # Reading Files
