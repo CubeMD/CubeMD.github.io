@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://cubemd.github.io/files/cv.pdf" type="application/pdf"/>
+<embed src="https://cubemd.github.io/files/cv.pdf" type="application/pdf" width="900px" height="500px" />
