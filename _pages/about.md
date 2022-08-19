@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a **deep learning enthusiast**, striving to bring intelligent systems into game development. I enjoy **creating games** and **solving** them with **Deep Reinforcement Learning**. I believe that games also make great environments for reinforcement learning research because of the variety of possible tasks and the relative cheapness of development, training, and deployment.
+I am a **deep learning enthusiast**, striving to bring intelligent systems into game development. I enjoy **creating games** and **training deep reinforcement learning agents** to play them. I believe that games make great environments for reinforcement learning research because of the variety of possible tasks and the relative cheapness of development, training, and deployment.
 
 My area of expertise is the **design of reinforcement learning environments** with game engines, primarily **Unity**. I've been using the **ML-Agents toolkit** since it was in early beta and have thoroughly studied the complexities of communicating data between **game engines** and **Python**, **training parallelization**, and the training **algorithms** themselves.
 
 I experimented with applications of reinforcement learning to various games, and I learned that the design of the way that the agent interacts with the world is a crucial but often overlooked part of reinforcement learning. Researchers often work with pre-made environments, but any real task involves design of the environment itself. I make **custom sensors, action and reward systems**, and lay out the decision-making process to make agents that behave in the desired ways.
 
-To lay the groundwork for my knowledge, I completed the **Udacity Deep Reinforcement Learning Nanodegree** and read books on Deep Learning, Reinforcement Learning, Machine Learning, and Math. I spend all my spare time looking for interesting papers and projects to keep myself up-to-date with these constantly evolving fields. Over the years, I have gathered a large collection of noteworthy projects, which I am always happy to talk about and want to share with the community in the near future.
+To lay the groundwork for my knowledge, I completed the **Udacity Deep Reinforcement Learning Nanodegree** and read books on deep learning, reinforcement learning, machine learning, and studied the required math. I spend all my spare time looking for interesting papers and projects to keep myself up-to-date with these constantly evolving fields. Over the years, I have gathered a large collection of noteworthy projects, which I am always happy to talk about and want to share with the community in the near future.
 
 The topics that I am interested in right now are **population based training with network distillation** and **efficient interaction with continuous time environments**. I experiment with them in different projects that I'm either doing myself or volunteering for.
 
@@ -30,8 +30,8 @@ After I got my diploma in 2018, I started learning about video game development 
 
 I noticed the field of **deep learning** around the same time, and it immediately caught my attention. The achievements of **OpenAI** and **DeepMind** were astounding, and I used my game development and programming skills to create my own **small neuroevolution project**. It was also the time when I first learned about **connecting game engines to Python** and wrote my first lines of **Tensorflow code**.
 
-I enrolled in a **Game Design and Development program at Centennial College in Toronto** and moved there to make it a full-time job. The program covered all aspects of game development in **Unity**, and I put emphasis on learning **C#** and **Deep Reinforcement Learning**. During my studies, I took part in various game jams and projects, which taught me the practical aspects of game development.
+I enrolled in a **Game Design and Development program at Centennial College in Toronto** and moved there to make it a full-time job. The program covered all aspects of game development in **Unity**, and I put emphasis on learning **C#** and **deep reinforcement learning**. During my studies, I took part in various game jams and projects, which taught me the practical aspects of game development.
 
-Since I've graduated I have been focusing on **learning Python** and **Deep Reinforcement Learning** related topics. I also made a couple projects where I tested **different hypothesis related to the environment design** and volunteer to develop a learning based AI for an **RTS game "Sanctuary"**. Writing articles is also one of the directions that I am currently exploring.
+Since I've graduated I have been focusing on **learning Python** and **deep reinforcement learning** related topics. I also made a couple projects where I tested **different hypothesis related to the environment design** and volunteer to develop a learning based AI for an **RTS game "Sanctuary"**. Writing articles is also one of the directions that I am currently exploring.
 
-There were 42 "I" and 23 "learn" throughout this text, I hope it didn't annoy you too much :)
+There were 42 "I" and 25 "learn" throughout this text, I hope it didn't annoy you too much :)
