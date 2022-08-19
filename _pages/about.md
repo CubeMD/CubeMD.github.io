@@ -10,7 +10,7 @@ redirect_from:
 
 I am a **deep learning enthusiast**, striving to bring intelligent systems into game development. I enjoy **creating games** and **training deep reinforcement learning agents** to play them. I believe that games make great environments for reinforcement learning research because of the variety of possible tasks and the relative cheapness of development, training, and deployment.
 
-My area of expertise is the **design of reinforcement learning environments** with game engines, primarily **Unity**. I've been using the **ML-Agents toolkit** since it was in early beta and have thoroughly studied the complexities of communicating data between **game engines** and **Python**, **training parallelization**, and the training **algorithms** themselves.
+My area of expertise is the **design of reinforcement learning environments** with game engines, primarily **Unity**. I've been using the **ML-Agents toolkit** since it was in early beta and have thoroughly studied the complexities of communicating data between **game engines** and **Python**, **training parallelization**, and the **training algorithms** themselves.
 
 I experimented with applications of reinforcement learning to various games, and I learned that the design of the way that the agent interacts with the world is a crucial but often overlooked part of reinforcement learning. Researchers often work with pre-made environments, but any real task involves design of the environment itself. I make **custom sensors, action and reward systems**, and lay out the decision-making process to make agents that behave in the desired ways.
 
