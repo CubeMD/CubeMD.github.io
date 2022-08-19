@@ -4,9 +4,9 @@ excerpt: "An endless runner cross-platform game Star Jump Commando for Android &
 collection: portfolio
 ---
 
-Gameplay programmer​
-* Co-programmed gameplay and balanced progression
-* Developed weapons and collectibles
-* Developed behaviors for enemies and wave generation system
+Gameplay programmer
+* Designed and implemented gameplay, progression and balancing
+* Implemented weapons and collectibles
+* Developed enemies, bosses, wave generation system and difficulty multiplier
 
 Link: https://play.google.com/store/apps/details?id=com.cometstudios.starjumpcommando&hl=en_US&gl=US
