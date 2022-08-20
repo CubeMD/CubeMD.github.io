@@ -11,12 +11,12 @@ redirect_from:
 ## [Dino - An environment, where agents are able to choose when to act](https://github.com/CubeMD/Dino)
 This is a project where I experiment with efficient decision-making for agents in continuous time environments. I compared the default approach with my custom delayed action system and wrote an article about the results on Medium.
 
-![Dino](images/DinoDelayedPreview.gif)
+![Dino](/images/DinoDelayedPreview.gif)
 
 ## [Tools for ML-Agents](https://github.com/CubeMD/ML-Agents-Config-Manager)
 Streamlining the process of training and use of techniques similar to Population Based Training. It also allows you to spawn multiple environments, change camera between different agents, adjust the timescale, display the agent related information, and debug the custom values on the Tensorboard while training.
 
-![Tool](images/runs.png)
+![Tool](/images/runs.png)
 
 ## [Doodle Jump - Unity platformer with ML Agents](https://github.com/CubeMD/DoodleJump)
 Made to design and compare different perception systems for reinforcement learning agents and try out different training algorithms. I tested the potential of a custom sensor that parses surrounding objects into a variable length vector that is processed by the attention module. It also served as a benchmark to compare the impact of different setups on the decision sampling speed.
