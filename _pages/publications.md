@@ -11,4 +11,4 @@ redirect_from:
 
 An approach for efficient decision-making in continuous time environments.
 
-![Dino replica in Unity](https://media.giphy.com/media/YOkl7ox9OMctplxaGg/giphy.gif)
+![Dino](/images/DinoDelayedPreview.gif)

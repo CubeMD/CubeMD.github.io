@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## [Dino - An environment, where agents are able to choose when to act](https://github.com/CubeMD/Dino)
-This is a project where I experiment with efficient decision-making for agents in continuous time environments. I compared the default approach with my custom delayed action system and wrote an article about the results on Medium.
+This is a project where I experiment with efficient decision-making for agents in continuous time environments. I compared the default approach with my custom delayed action system and wrote an [article](https://medium.com/@markelovdp/delayed-actions-in-reinforcement-learning-environments-16125a7d731c) about the results on Medium.
 
 ![Dino](/images/DinoDelayedPreview.gif)
 
