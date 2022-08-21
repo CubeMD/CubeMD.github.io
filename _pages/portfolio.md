@@ -38,7 +38,7 @@ A multi-threaded multi-agent environment where hundreds of agents compete to sur
 An endless runner game **Star Jump Commando** for **Android & IOS**. The game was released in April 2022.
 
 **Unity Developer / Programmer**
-- Developed collectibles and equipment systems, enemies, bosses, wave generation system and difficulty multiplier.
+- Developed and implemented collectibles and equipment systems, enemies, bosses, wave generation system and difficulty multiplier.
 - Collaborated with other programmers to create a general code architecture and support existing code systems.
 - QA, outlined the balancing direction and adjusted the difficulty of the game’s progressing.
 - Tightly worked with a design team to implement their game vision and outlined tasks during agile processes and standups.
